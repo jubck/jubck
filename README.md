@@ -19,4 +19,4 @@
 
 ## GitHub Stats
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=jubck&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=jubck&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
