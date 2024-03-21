@@ -11,5 +11,3 @@
     <img alt="Swift" width="50px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/swift/swift.svg" />
     
 </div>
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=jubck&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
